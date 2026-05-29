@@ -36,6 +36,15 @@ Para lograr un flujo de trabajo limpio y eficiente como desarrollador en solitar
 
 ---
 
+## Aclaraciones y Notas del Proyecto
+
+*   **Presentación del Proyecto:** ¡Aún me queda mucho por mejorar! Al estar empezando y tener poca experiencia en la industria, soy consciente de que aún estoy aprendiendo cuál es la forma idónea de presentar y estructurar un proyecto para un posible reclutador. Agradezco enormemente cualquier *feedback* constructivo.
+*   **Gestión de Assets y Derechos de Autor:** A nivel artístico, el proyecto utiliza una combinación de assets de creación propia y assets gratuitos de la *Unity Asset Store*. Por respeto a las licencias de sus respectivos creadores y para evitar la redistribución no autorizada de su trabajo, he decidido no incluirlos de forma directa en este repositorio público.
+*   **Enfoque en la Programación (Código Puro):** Dado que mi enfoque en este desarrollo está en un **80% centrado en la programación y la lógica**, este repositorio contiene únicamente los scripts de código de C#. Esto, además, me permite optimizar el almacenamiento, ya que el proyecto completo con todas sus texturas y mapas de bits de estilo PSX excede el peso recomendado para un control de versiones limpio en GitHub.
+*   **Evolución Continua:** Avanzo que día a día intento aprender más y más técnicas de arquitectura limpia. Soy consciente de que el código siempre se puede optimizar o comentar mejor, y trabajo diariamente para que mis siguientes funciones sean más pulcras que las anteriores.
+
+---
+
 ## Contacto y Enlaces
 
 Si eres un reclutador o desarrollador interesado en los detalles técnicos de este proyecto, no dudes en revisar los scripts del repositorio o contactar conmigo:
